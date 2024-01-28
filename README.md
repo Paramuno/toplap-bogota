@@ -2,4 +2,4 @@
 
 Editores:
 * [Miguel Marañas](https://github.com/Paramuno)
-* [Alvaro Obyrne]
+* [Alvaro Obyrne](https://github.com/alvarobyrne)
