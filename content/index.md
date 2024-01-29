@@ -1,11 +1,10 @@
 ---
 title: Toplap Nodo Bogotá Wiki
 ---
-[TOPLAP wiki global](https://toplap.org/wiki/Main_Page)
+> A través del uso de algoritmos, liberamos imposiciones gráficas, musicales y filosóficas
+
+#### [TOPLAP wiki global](https://toplap.org/wiki/Main_Page)
 * [Otros nodos](https://blog.toplap.org/nodes/)
-
-> {A través del uso de algoritmos, liberamos imposiciones gráficas, musicales y filosóficas}
-
 
 # Programa Live Cinema
 
@@ -15,7 +14,6 @@ title: Toplap Nodo Bogotá Wiki
 
 ## Software local
 * [[Dosis]]
-* etc.
 
 ### Links a otras redes
 * [Toplap Bogotá en Facebook](https://www.facebook.com/groups/626111581071250/)
