@@ -7,7 +7,7 @@ title: Toplap Nodo Bogotá Wiki
 * [Toplap Bogotá en Instagram](https://www.instagram.com/toplapbogota/?hl=en)
 * [Nodos globales](https://blog.toplap.org/nodes/)
 * [All things live coding](https://github.com/toplap/awesome-livecoding) - Compilación de recursos
-* [Conferencia Internacional de live coding](https://iclc.toplap.org/)
+* [Conferencia Internacional de Live Coding](https://iclc.toplap.org/)
 
 # Programa Live Cinema
 * **Net Art:** Twine
@@ -17,5 +17,3 @@ title: Toplap Nodo Bogotá Wiki
 
 ## Software desarrollado por integrantes
 * [[Dosis]]
-
-### Links a otras redes
